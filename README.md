@@ -18,7 +18,7 @@
 
 5）数据集大小：pubg数据包括2个数据集
 
-# PUBG数据分析项目：[Netflix_Data_Project.ipynb](Netflix_Data_Project.ipynb)
+# PUBG数据分析项目：[PUBG_Project.ipynb](PUBG_Project.ipynb)
 Note:
 1)打开若显示“Sorry, something went wrong. Reload?”，刷新浏览器即可打开。
-2)由于github无法显示交互式可视化图，故保存可视化图为png格式，导入NetflixDataProject.ipynb文件显示。
+2)由于github无法显示交互式可视化图，故保存可视化图为png格式，导入PUBG_Project.ipynb文件显示。
